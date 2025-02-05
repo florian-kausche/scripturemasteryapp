@@ -1,0 +1,30 @@
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\bin\Debug\net8.0\Develop03.exe
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\bin\Debug\net8.0\Develop03.deps.json
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\bin\Debug\net8.0\Develop03.runtimeconfig.json
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\bin\Debug\net8.0\Develop03.dll
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\bin\Debug\net8.0\Develop03.pdb
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.AssemblyInfoInputs.cache
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.AssemblyInfo.cs
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.csproj.CoreCompileInputs.cache
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.sourcelink.json
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.dll
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\refint\Develop03.dll
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.pdb
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.genruntimeconfig.cache
+c:\Users\Moandemah Foundation\Desktop\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\ref\Develop03.dll
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\bin\Debug\net8.0\Develop03.exe
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\bin\Debug\net8.0\Develop03.deps.json
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\bin\Debug\net8.0\Develop03.runtimeconfig.json
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\bin\Debug\net8.0\Develop03.dll
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\bin\Debug\net8.0\Develop03.pdb
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.AssemblyInfoInputs.cache
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.AssemblyInfo.cs
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.csproj.CoreCompileInputs.cache
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.sourcelink.json
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.dll
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\refint\Develop03.dll
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.pdb
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\Develop03.genruntimeconfig.cache
+C:\Users\Moandemah Foundation\Desktop\school Work\Done\cse210\cse210-projects\prove\Develop03\obj\Debug\net8.0\ref\Develop03.dll

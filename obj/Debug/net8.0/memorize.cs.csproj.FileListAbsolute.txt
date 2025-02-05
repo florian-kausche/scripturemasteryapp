@@ -1,0 +1,14 @@
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\bin\Debug\net8.0\memorize.cs.exe
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\bin\Debug\net8.0\memorize.cs.deps.json
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\bin\Debug\net8.0\memorize.cs.runtimeconfig.json
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\bin\Debug\net8.0\memorize.cs.dll
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\bin\Debug\net8.0\memorize.cs.pdb
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\memorize.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\memorize.cs.AssemblyInfoInputs.cache
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\memorize.cs.AssemblyInfo.cs
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\memorize.cs.csproj.CoreCompileInputs.cache
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\memorize.cs.dll
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\refint\memorize.cs.dll
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\memorize.cs.pdb
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\memorize.cs.genruntimeconfig.cache
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\ref\memorize.cs.dll
