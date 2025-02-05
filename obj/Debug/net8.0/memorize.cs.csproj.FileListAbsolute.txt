@@ -12,3 +12,4 @@ C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\
 C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\memorize.cs.pdb
 C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\memorize.cs.genruntimeconfig.cache
 C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\ref\memorize.cs.dll
+C:\Users\Moandemah Foundation\Desktop\school Work\scripturemasteryapp\obj\Debug\net8.0\memorize.cs.sourcelink.json
