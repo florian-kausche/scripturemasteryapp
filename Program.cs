@@ -108,30 +108,30 @@ namespace ScriptureMemorizer
         }
     }
 
-    class Scripture
+    class Scripture // Classes
     {
-        private Reference _reference;
-        private List<Word> _words;
+        private Reference _reference; // Variables
+        private List<Word> _words; // Variables
 
-        public Scripture(Reference reference, string text)
+        public Scripture(Reference reference, string text) // Functions
         {
             _reference = reference;
             _words = text.Split(' ').Select(word => new Word(word)).ToList();
         }
 
-        public void HideRandomWords()
+        public void HideRandomWords() // Functions
         {
-            Random random = new Random();
-            int wordsToHide = random.Next(1, Math.Max(1, _words.Count / 10));
+            Random random = new Random(); // Variables
+            int wordsToHide = random.Next(1, Math.Max(1, _words.Count / 10)); // Variables
 
-            for (int i = 0; i < wordsToHide; i++)
+            for (int i = 0; i < wordsToHide; i++) // Loops
             {
                 var wordsToChooseFrom = _words.Where(word => !word.ToString().Equals("_____")).ToList();
-                if (wordsToChooseFrom.Count == 0)
+                if (wordsToChooseFrom.Count == 0) // Conditionals
                 {
                     break;
                 }
-                wordsToChooseFrom[random.Next(wordsToChooseFrom.Count)].Hide();
+                wordsToChooseFrom[random.Next(wordsToChooseFrom.Count)].Hide(); // Hiding of random words
             }
         }
 
