@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("memorize.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2184c021f8550e937329fd232affe1ab3856eb72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df0eac41ba3c4ca815cc9dcf52da5bed112470e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("memorize.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("memorize.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

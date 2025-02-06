@@ -39,7 +39,7 @@ namespace ScriptureMemorizer
                 {
                     break;
                 }
-
+ 
                 scripture.HideRandomWords();
                 if (scripture.IsFullyHidden())
                 {
